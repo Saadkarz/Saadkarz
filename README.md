@@ -3,7 +3,12 @@
 🎯 **AI & Data Science Engineer | Full Stack Developer | ML Enthusiast**  
 📍 Based in Morocco | 💻 Passionate about Artificial Intelligence, Web Development & Innovation  
 
+
+![200w](https://github.com/user-attachments/assets/82ce7062-f1af-4faf-bb65-8550e1f6fb71)
+
+
 ---
+
 
 ## 🚀 About Me
 I’m a final-year engineering student at **École Marocaine des Sciences de l’Ingénieur (EMSI)**, specializing in **Informatics & Network Engineering – MIAGE Option**.  
