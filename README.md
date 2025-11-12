@@ -188,10 +188,36 @@ A facial recognition-based HR system for secure employee tracking and attendance
 
 <div align="center">
 
-| 🏆 Certification | 🏫 Institution | 🔗 Platform |
-|------------------|----------------|-------------|
-| 🧩 Introduction to Machine Learning with Python | Arizona State University | Coursera |
-| ☁️ Introduction to Cloud Computing | IBM | Coursera |
+### 🤖 AI & Machine Learning
+| 🏆 Certification | 🏫 Institution |
+|------------------|----------------|
+| Introduction to Machine Learning | Duke University |
+| Introduction to Machine Learning with Python | Arizona State University |
+
+### ☁️ Cloud & DevOps
+| 🏆 Certification | 🏫 Institution |
+|------------------|----------------|
+| Introduction to Cloud Computing | IBM |
+| Introduction to Containers w/ Docker, Kubernetes & OpenShift | IBM |
+| Virtual Networks in Azure | Whizlabs |
+
+### 💻 Programming & Software Engineering
+| 🏆 Certification | 🏫 Institution |
+|------------------|----------------|
+| Introduction to Java and Object-Oriented Programming | University of Pennsylvania |
+| Introduction à la programmation orientée objet (en C++) | École Polytechnique Fédérale de Lausanne |
+| Software Engineering: Software Design and Project Management | The Hong Kong University of Science and Technology |
+| The Unix Workbench | Johns Hopkins University |
+| The Arduino Platform and C Programming | University of California, Irvine |
+
+### 🌐 Web Development
+| 🏆 Certification | 🏫 Institution |
+|------------------|----------------|
+| React Basics | Meta |
+| Advanced Styling with Responsive Design | University of Michigan |
+| Interactivity with JavaScript | University of Michigan |
+| Web Design for Everybody Capstone | University of Michigan |
+| HTML, CSS, and Javascript for Web Developers | Johns Hopkins University |
 
 </div>
 
